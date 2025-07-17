@@ -5,3 +5,4 @@
 01. [Lab 4> 인덱스 검색](./ai_search/lab_04.md)
 01. [Lab 5> AI Skillset을 이용한 인덱스 생성](./ai_search/lab_05.md)
 01. [Lab 6> 검색 클라이언트 응용 프로그램 만들기](./ai_search/lab_06.md)
+01. [Azure에서 기계 학습 시작](https://learn.microsoft.com/ko-kr/training/modules/design-machine-learning-model-training-solution/)

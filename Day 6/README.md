@@ -1,4 +1,3 @@
-00. [Azure에서 기계 학습 시작](https://learn.microsoft.com/ko-kr/training/modules/design-machine-learning-model-training-solution/)
 00. [Azure에서 자연어 처리 시작](https://learn.microsoft.com/ko-kr/training/modules/get-started-language-azure/)
 00. [Azure AI 검색 솔루션 만들기](https://learn.microsoft.com/ko-kr/training/modules/create-azure-cognitive-search-solution/)
 00. [Lab 1> Azure AI Search 솔루션 만들기](./ai_search/lab_01.md)
